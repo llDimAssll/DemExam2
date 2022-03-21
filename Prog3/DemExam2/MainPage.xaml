@@ -1,0 +1,18 @@
+﻿<Page x:Class="DemExam2.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DemExam2"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MainPage">
+
+    <Grid>
+        <Button x:Name="Button1" Content="Квадратное уравнение" Margin="20,158,400,10" Click="Button1_Click"/>
+        <Button x:Name="Button2" Content="Линейное уравнение" Margin="410,158,10,10" Click="Button2_Click"/>
+        <Label Content="Вычисление уравнений" Margin="266,0,0,317" FontSize="36"/>
+        <Image Margin="0,0,544,317" Source="/Image1.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

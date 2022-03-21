@@ -1,0 +1,6 @@
+E:\Downloads\Prog3\DemClass\bin\Debug\DemClass.dll
+E:\Downloads\Prog3\DemClass\bin\Debug\DemClass.pdb
+E:\Downloads\Prog3\DemClass\obj\Debug\DemClass.csproj.AssemblyReference.cache
+E:\Downloads\Prog3\DemClass\obj\Debug\DemClass.csproj.CoreCompileInputs.cache
+E:\Downloads\Prog3\DemClass\obj\Debug\DemClass.dll
+E:\Downloads\Prog3\DemClass\obj\Debug\DemClass.pdb
